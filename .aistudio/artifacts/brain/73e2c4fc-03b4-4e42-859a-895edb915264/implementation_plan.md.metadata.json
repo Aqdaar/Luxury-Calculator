@@ -1,0 +1,6 @@
+{
+  "summary": "Implementation plan for Calculation Keep improvements: multi-entry scrollable tags, card reordering with notes above tags, multi-select batch deletion, deletable original tags in tag manager, and dynamic top-8 frequency-based tag suggestions.",
+  "updatedAt": "2026-10-18T18:33:02.505041336Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

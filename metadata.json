@@ -1,0 +1,8 @@
+{
+  "name": "Luxury Calculator",
+  "description": "Minimalist dark 3D chiseled calculator with dynamic font scaling, Apple liquid glass keys, and offline voice accessibility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
